@@ -1,7 +1,8 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 ### Hi there 👋
+
 I'm Alaoui Mohammed El Mehdi, a passionate college student with a keen interest in software engineering and technology. Currently pursuing an engeneering degree at IMT atlantique, I thrive on turning ideas into reality through code.
 
 ### 🚀 What I'm up to:
