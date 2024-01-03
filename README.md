@@ -1,16 +1,25 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif)" width="100"/>
+</div>
 ### Hi there 👋
+I'm Alaoui Mohammed El Mehdi, a passionate college student with a keen interest in software engineering and technology. Currently pursuing an engeneering degree at IMT atlantique, I thrive on turning ideas into reality through code.
 
-<!--
-**Mehdialaoui02/Mehdialaoui02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 What I'm up to:
 
-Here are some ideas to get you started:
+- 🎓 Studying Software developpement and machine learning
+- 🌐 Learning and contributing to open-source projects
+- 📚 Seeking new challenges and opportunities to grow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👯 I’m looking to collaborate on:
+
+- Open source projects
+- Innovative software solutions
+- Anything that involves creativity and problem-solving
+
+### 🤝 Let's connect!
+
+- LinkedIn: https://www.linkedin.com/in/mohammed-el-mehdi-alaoui-704822251/
+
+
+
+
